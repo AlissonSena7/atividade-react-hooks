@@ -112,10 +112,3 @@ npm run preview
 
 ---
 
-## Autor
-
-Aluno: Alisson Ramires S. da Silva
-
-Disciplina: Programação para Internet I
-
-Instituição: IFPI
